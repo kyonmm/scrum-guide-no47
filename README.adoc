@@ -1,0 +1,12 @@
+= Scrum Guide No.47 Edition
+スクラムガイド No.47版
+
+本ドキュメントは No.47 で採用しているスクラムガイドです。
+No.47 はkyon_mmを中心とするソフトウェア開発チームです。
+No.47 ではオリジナルのスクラムガイドにいくつか変更を加えています。
+
+Ken Schwaber and Jeff Sutherlandによるオリジナルのスクラムガイド https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Japanese.pdf
+
++++
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
++++
