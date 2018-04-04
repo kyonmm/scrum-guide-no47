@@ -1,4 +1,4 @@
-= スクラムガイド
+= スクラムガイド No.47 Edition
 :toc:
 :numbered:
 
